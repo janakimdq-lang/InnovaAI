@@ -2,9 +2,9 @@
 include './header.php';
 ?>
 <head>
-<meta name="description" content="Simplify your work with AI automation tools. InnovaAI helps boost productivity, streamline workflows, and grow your business effortlessly.." />
-<meta name="keywords"  content="digital transformation AI"/>
-<title>AI Automation & Productivity Tools | InnovaAI</title>
+<meta name="description" content="<Leading AI automation, cloud, and marketing transformation services in Chennai, India. InnovaAI helps businesses innovate and grow with smart technology.">
+<meta name="keywords"  content="AI and cloud integration services"/>
+<title> AI Automation, Cloud & Marketing Transformation | InnovaAI</title>
 <meta name="robots" content="index,follow">
     <link rel="canonical" href="https://innovaai.com/">
     <meta property="og:locale" content="en_US" />
@@ -80,65 +80,82 @@ include './header.php';
     }
 }
  </style>
-<script type="application/ld+json">
+<script type="application/ld+json"><script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Organization",
+  "@type": "ProfessionalService",
   "name": "InnovaAI",
-  "url": "https://innovaai.com/",
-  "logo": "https://innovaai.com/assets/logo.png",
+  "url": "https://www.innovaai.com",
+  "logo": "https://www.innovaai.com/logo.png",
+  "image": "https://www.innovaai.com/cover.jpg",
+  "description": "AI automation, cloud solutions, and marketing transformation services in Chennai, India.",
   "telephone": "+91-XXXXXXXXXX",
+  "areaServed": {
+    "@type": "Place",
+    "name": "Chennai, Tamil Nadu, India"
+  },
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Your Street Address Here",
+    "streetAddress": "Your Street Address",
     "addressLocality": "Chennai",
     "addressRegion": "Tamil Nadu",
-    "addressCountry": "IN",
-    "postalCode": "600001"
+    "postalCode": "600001",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "13.0827",
+    "longitude": "80.2707"
   },
   "sameAs": [
-    "https://www.facebook.com/InnovaAI/",
-    "https://twitter.com/InnovaAI",
-    "https://www.linkedin.com/company/innovaai/"
+    "https://www.linkedin.com/company/innovaai",
+    "https://twitter.com/innovaai"
   ],
-  "department": [
-    {
-      "@type": "Service",
-      "name": "AI Workflow Automation",
-      "description": "Streamline repetitive tasks and boost productivity with intelligent AI-powered solutions.",
-      "url": "https://innovaai.com/services/ai-workflow-automation"
-    },
-    {
-      "@type": "Service",
-      "name": "Productivity Tools",
-      "description": "Enhance team performance with easy-to-use AI tools designed to save time and effort.",
-      "url": "https://innovaai.com/services/productivity-tools"
-    }
-  ]
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "AI & Digital Services",
+    "itemListElement": [
+      {
+        "@type": "Service",
+        "name": "AI Automation",
+        "description": "Business process automation using AI and machine learning."
+      },
+      {
+        "@type": "Service",
+        "name": "Cloud Solutions",
+        "description": "Cloud migration, deployment, and optimization services."
+      },
+      {
+        "@type": "Service",
+        "name": "Marketing Transformation",
+        "description": "Digital marketing automation and data-driven strategies."
+      }
+    ]
+  }
 }
 </script>
 </head>
 <section class="services-section">
   <div class="card-services" itemscope itemtype="https://schema.org/Service">
-    <img src="https://innovaai.com/assets/ai-icon.png" alt="AI Workflow Automation Icon" itemprop="image">
+    <img src="https://innovaai.com/assets/ai-icon.png" alt="End-to-end AI automation, cloud services and marketing transformation platform"="image">
     <h3 itemprop="name">AI Workflow Automation</h3>
     <p itemprop="description">Streamline repetitive tasks and boost productivity with intelligent AI-powered solutions.</p>
     <meta itemprop="provider" content="InnovaAI">
   </div>
 
   <div class="card-services" itemscope itemtype="https://schema.org/Service">
-    <img src="https://innovaai.com/assets/productivity-icon.png" alt="AI Workflow Automation Icon" itemprop="image">
+    <img src="https://innovaai.com/assets/productivity-icon.png" alt="End-to-end AI automation, cloud services and marketing transformation platform"="image">
     <h3 itemprop="name">Productivity Tools</h3>
     <p itemprop="description">Enhance team performance with easy-to-use AI tools designed to save time and effort.</p>
     <meta itemprop="provider" content="InnovaAI">
   </div>
 </section>
     <div class="container-fluid px-5">
-  <h1>AI Automation & Productivity Tools in Chennai | InnovaAI</h1>
+  <h1>AI Automation, Cloud & Marketing Transformation in Chennai, India | InnovaAI</h1>
 <div class="row services-row">
     <div class="col-md-4 col-sm-6 mb-4">
       <div class="card-services" itemscope itemtype="https://schema.org/Service">
-        <img src="https://innovaai.com/assets/ai-icon.png" alt="AI Workflow Automation Icon" itemprop="image">
+        <img src="https://innovaai.com/assets/ai-icon.png" alt="End-to-end AI automation, cloud services and marketing transformation platform"="image">
         <h3 itemprop="name">AI Workflow Automation</h3>
         <p itemprop="description">Streamline repetitive tasks and boost productivity with intelligent AI-powered solutions.</p>
         <meta itemprop="provider" content="InnovaAI">
@@ -146,7 +163,7 @@ include './header.php';
     </div>
     <div class="col-md-4 col-sm-6 mb-4">
       <div class="card-services" itemscope itemtype="https://schema.org/Service">
-        <img src="https://innovaai.com/assets/productivity-icon.png" alt="AI Workflow Automation Icon" itemprop="image">
+        <img src="https://innovaai.com/assets/productivity-icon.png" alt="End-to-end AI automation, cloud services and marketing transformation platform"="image">
         <h3 itemprop="name">Productivity Tools</h3>
         <p itemprop="description">Enhance team performance with easy-to-use AI tools designed to save time and effort.</p>
         <meta itemprop="provider" content="InnovaAI">
